@@ -9,7 +9,7 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 2. Install dependencies
 `yarn` 
 3. Start dev server
-`cd <project-folder> && yarn`
+`cd <project-folder> && yarn dev`
 
 
 ## 💩 TO DO
