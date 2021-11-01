@@ -31,4 +31,4 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
     ☐ Traits no usable with others?
 ☐ ..... placeholder for more
 ☐ Deploy to Rinkeby (testnet) and test
-☐ Deploy to Mainnet
+☐ Deploy to Mainnet    
