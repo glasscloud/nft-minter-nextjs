@@ -7,9 +7,10 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 1. Clone the repo
 `git clone https://github.com/glasscloud/nft-minter-nextjs`
 2. Install dependencies
-`yarn` 
+`cd <project-folder> && yarn`
 3. Start dev server
-`cd <project-folder> && yarn dev`
+`yarn dev` 
+
 
 
 ## 💩 TO DO
