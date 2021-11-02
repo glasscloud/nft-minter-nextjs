@@ -20,16 +20,16 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 ☑️ Install and configure `TailwindCSS` \
 ☐ Layout `mint` page \
 ☐ Connect wallet via `<INSERT WALLET APP>` \
-☐ Create NFT contract (ERC721) \ 
-    ☐ Total Trait Types - ### \
-    ☐ Total Traits - ### \
-    ☐ Max possible combinations - ### \
-    ☐ Available to mint - ### \
+☐ Create NFT contract (ERC721) \
+&nbsp;&nbsp;&nbsp;☐ Total Trait Types - ### \
+&nbsp;&nbsp;&nbsp;☐ Total Traits - ### \
+&nbsp;&nbsp;&nbsp;☐ Max possible combinations - ### \
+&nbsp;&nbsp;&nbsp;☐ Available to mint - ### \
 ☐ Create `mint` process and scripts \
-    ☐ Ensure uniqueness \ 
-    ☐ Randomize traits \
-    ☐ Rarity for traits \
-    ☐ Traits no usable with others? \
+&nbsp;&nbsp;&nbsp;☐ Ensure uniqueness \
+&nbsp;&nbsp;&nbsp;☐ Randomize traits \
+&nbsp;&nbsp;&nbsp;☐ Rarity for traits \
+&nbsp;&nbsp;&nbsp;☐ Traits no usable with others? \
 ☐ ..... placeholder for more \
 ☐ Deploy to Rinkeby (testnet) and test \
 ☐ Deploy to Mainnet \
