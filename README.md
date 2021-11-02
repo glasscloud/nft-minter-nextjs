@@ -17,7 +17,7 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 
 ☑️ Setup project \
 ☐ Install and configure `hardhat` \
-☐ Install and configure `TailwindCSS` \
+☑️ Install and configure `TailwindCSS` \
 ☐ Layout `mint` page \
 ☐ Connect wallet via `<INSERT WALLET APP>` \
 ☐ Create NFT contract (ERC721) \ 
