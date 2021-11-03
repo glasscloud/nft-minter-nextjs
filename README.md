@@ -18,6 +18,7 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 ☑️ Setup project \
 ☐ Install and configure `hardhat` \
 ☑️ Install and configure `TailwindCSS` \
+☑️ Layout `header` component with navigation \
 ☐ Layout `mint` page \
 ☐ Connect wallet via `<INSERT WALLET APP>` \
 ☐ Create NFT contract (ERC721) \
@@ -32,4 +33,4 @@ Project built for a buyer to mint an NFT on Ethereum. Bootstrapped with NextJS.
 &nbsp;&nbsp;&nbsp;☐ Traits no usable with others? \
 ☐ ..... placeholder for more \
 ☐ Deploy to Rinkeby (testnet) and test \
-☐ Deploy to Mainnet \
+☐ Deploy to Mainnet
