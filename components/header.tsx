@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import ConnectButton from './connectButton'
 
 type HeaderProps = {
   className?: string
@@ -19,7 +20,7 @@ export const Header: React.FC<HeaderProps> = ({ children, className }) => (
           </Link>
         </div>
         <div>
-          <a href="#" className={"inline-block text-sm px-4 py-2 leading-none border rounded text-black border-black hover:border-transparent hover:text-white hover:bg-black mt-4 lg:mt-0"}>CONNECT WALLET</a>
+          <ConnectButton/>
         </div>
       </div>
     </nav>
