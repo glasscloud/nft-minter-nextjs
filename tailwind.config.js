@@ -8,4 +8,12 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  theme: {
+    backgroundColor: theme => ({
+     ...theme('colors'),
+     'primary': '#000024',
+     'secondary': '#ffed4a',
+     'danger': '#e3342f',
+    })
+  }
 }

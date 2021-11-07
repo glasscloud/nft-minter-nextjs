@@ -11,10 +11,10 @@ export const Header: React.FC<HeaderProps> = ({ children, className }) => (
       <div className={"w-full block flex-grow lg:flex lg:items-center lg:w-auto"}>
         <div className={"text-sm lg:flex-grow"}>
           <Link href="/">
-            <a className={"block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-black hover:underline mr-4"}>Home</a>
+            <a className={"block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white hover:underline mr-4"}>Home</a>
           </Link>
           <Link href="/mint">
-            <a href="#" className={"block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-black hover:underline mr-4"}>
+            <a href="#" className={"block mt-4 lg:inline-block lg:mt-0 text-white hover:text-white hover:underline mr-4"}>
               Mint
             </a>
           </Link>

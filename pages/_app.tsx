@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <DAppProvider config={{}}>
-        <Header className="container mx-auto bg-transparent">HEADER</Header>
+        <Header className="container mx-auto bg-primary">HEADER</Header>
         <Main className="container mx-auto bg-transparent h-screen"><Component {...pageProps} /></Main>
         <Footer className="container mx-auto bg-gray-200">FOOTER</Footer>
       </DAppProvider>
