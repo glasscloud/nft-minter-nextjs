@@ -1,9 +1,6 @@
 module.exports = {
   purge: [],
   darkMode: false, // or 'media' or 'class'
-  theme: {
-    extend: {},
-  },
   variants: {
     extend: {},
   },
@@ -14,6 +11,11 @@ module.exports = {
      'primary': '#000024',
      'secondary': '#ffed4a',
      'danger': '#e3342f',
-    })
+    }),
+    extend: {
+      fontFamily: {
+        Rampart: ["Press Start 2P", "cursive"],
+       },
+    },
   }
 }
