@@ -15,7 +15,7 @@ export default function ConnectButton() {
       <p className={"text-white"}>{etherBalance && parseFloat(formatEther(etherBalance)).toFixed(4)}&nbsp;&nbsp; <strong>$ΞTH</strong></p>
     </div>
   ) : (
-    <a href="#" onClick={handleConnectWallet} className={"inline-block text-sm px-4 py-2 leading-none border rounded text-black border-black hover:border-transparent hover:text-white hover:bg-black mt-4 lg:mt-0"}>
+    <a href="#" onClick={handleConnectWallet} className={"inline-block mx-auto text-xl main__button text-center border-solid border border-white"}>
         CONNECT WALLET
     </a>
   );
